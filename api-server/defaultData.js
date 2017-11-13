@@ -20,6 +20,54 @@ const posts = {
     voteScore: -5,
     deleted: false,
     commentCount: 0
+  },
+  "b1cb3fd8-c854-11e7-abc4-cec278b6b50a": {
+    id: 'b1cb3fd8-c854-11e7-abc4-cec278b6b50a',
+    timestamp: 1468479767190,
+    title: 'Markdown supported',
+    body: `
+# Markdown is _awesome_
+
+Just ask these guys:
+
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+`,
+    author: 'Runar',
+    category: 'udacity',
+    voteScore: -5,
+    deleted: false,
+    commentCount: 0
+  },
+  "b1cb3d44-c854-11e7-abc4-cec278b6b50a": {
+    id: 'b1cb3d44-c854-11e7-abc4-cec278b6b50a',
+    timestamp: 1542100991000,
+    title: "I'm a post from the future",
+    body: `
+# Hold on to your flux-capacitor!
+
+![Flux](http://www.tshirtlaundry.com/assets/images/photos/Flux6-14-2011-2.jpg)
+`,
+    author: 'Jimmy',
+    category: 'udacity',
+    voteScore: -5,
+    deleted: false,
+    commentCount: 0
+  },
+  "b1cb494c-c854-11e7-abc4-cec278b6b50a": {
+    id: 'b1cb494c-c854-11e7-abc4-cec278b6b50a',
+    timestamp: -76366766209000,
+    title: "Missing the old times?",
+    body: `
+# A long time ago
+
+![Storify](http://imgc.allpostersimages.com/images/P-473-488-90/53/5393/EGNJG00Z/posters/payne-athens-crowning-glory-from-the-golden-age.jpg)
+`,
+    author: 'Runar',
+    category: 'udacity',
+    voteScore: -5,
+    deleted: false,
+    commentCount: 0
   }
 };
 
